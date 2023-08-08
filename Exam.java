@@ -3,11 +3,11 @@ import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 import javax.swing.border.Border;
-
+//hello
 import java.util.ArrayList;
 import java.util.List;
 public class Exam {
-        JFrame frame=new JFrame();
+        JFrame frame=new JFrame(); 
         JFrame mainpage=new JFrame();
         int x=0,score=0,flag=0,q_n=0,f=0,option=0;
     Exam(){
